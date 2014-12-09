@@ -4,12 +4,12 @@
 	* Creating and Archiving Tasks
 1. [Managing Tasks](./manage_tasks.html)
 	* Editing Existing Tasks
-	* Managing Archives
 	* Moving Tasks (Drag and Drop)
 1. [Managing Stages](./manage_stages.html)
 	* Creating Your Own Stages
-	* Editing and Removing Columns
+        * Changing the Order of Stages
+        * Editing Stage Names
+	* Removing Stages
 1. [Searching the Task Manager](./search.html)
 1. [Customer Support](./customer_support.html)
-
 
