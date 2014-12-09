@@ -11,5 +11,5 @@
         * Editing Stage Names
 	* Removing Stages
 1. [Searching the Task Manager](./search.html)
+	* How to Search
 1. [Customer Support](./customer_support.html)
-
