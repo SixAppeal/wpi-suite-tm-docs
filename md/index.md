@@ -1,7 +1,6 @@
 # WPI Suite Task Manager Help
 
 1. [Getting Started](./getting_started.html)
-	* Kanban Board Overview
 	* Creating and Archiving Tasks
 1. [Managing Tasks](./manage_tasks.html)
 	* Editing Existing Tasks
@@ -12,6 +11,5 @@
 	* Editing and Removing Columns
 1. [Searching the Task Manager](./search.html)
 1. [Customer Support](./customer_support.html)
-
 
 
