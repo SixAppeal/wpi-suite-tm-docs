@@ -88,3 +88,5 @@ You may also use the drag and drop feature to change the  order of the tasks wit
 1. Select a task to drag in the same way as above. 
     * You may drag any task to the bottom of the list of tasks to change the order within a stage
 1. After releasing the cursor, you will see the task move down the list into its new spot in the stage
+
+#### [Back to Index](./index.html)

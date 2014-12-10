@@ -50,3 +50,5 @@ If you decide you no longer want a stage to be a part of your workflow, you may 
     * This will delete the stage name from the list
     * This will delete the stage's column from the workflow
     * The stage name will no longer be in the drop down menu in the create task tab
+
+#### [Back to Index](./index.html)

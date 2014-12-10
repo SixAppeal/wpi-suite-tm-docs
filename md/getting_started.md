@@ -30,3 +30,5 @@ Now that you can create a task, it is also important to know how to remove a tas
 1. The task is now no longer visible in the Task Manager, but the task and its details are still saved by the Task Manager
 
 This section only touches on two of the basic, but important, features of the Task Manager. The rest of the features will be covered in subsequent sections.
+
+#### [Back to Index](./index.html)

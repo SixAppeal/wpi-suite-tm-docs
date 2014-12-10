@@ -13,3 +13,5 @@ Task Manager comes with a search bar feature that allows you to find the tasks y
 1. Double click a task to open that task's edit view in the sidebar. You will be brought to the edit view where you can see the task's details and change information
 
 Note: the search feature filters out common words such as: a, is, the, etc. This is done to help refine your search results better and make it easier to find the specific task you are looking for
+
+#### [Back to Index](./index.html)
