@@ -27,10 +27,11 @@ The title and description of a task can be changed at any time. This process is 
     * Please note that changing to a blank title or description is not allowed, as these are required fields. An error message will appear and upon closing the edit view, these changes will not be saved.
 
 ### Adding a Due Date
-1. Below the description text field is a drop down menu labeled "Due Date". Today's date is listed by default.
+1. Below the description text field is a drop down menu labeled "Due Date". The original due date will be displayed in the box
 1. Click the drop down icon next to the listed date to open a monthly calendar view. This will show the current month.
 1. Click the left "<" or right ">" arrow buttons to change the month that you are viewing.
     * Note that due dates may be before or after the current date. This allows you to retroactively keep track of any tasks
+    * You can click on the link at the bottom of the calendar which says "Today is __" to navigate to the current month
 1. When you have navigated to the desired month, click on the day that you like to  set as the due date.
 1. Clicking on a date will close the calendar view and display this new due date in the drop down menu
     * The date will be displayed as "Day of the week dd/mm/yyyy" (ex: Sat 01/01/2011)
@@ -52,6 +53,16 @@ Members are listed as usernames of those who have logged in to use your Task Man
 1. If you would like to unassign any members, click on their username in the "Assigned" box
 1. Press the "<<" button located below the ">>" button to move the username back to the "Members" list
 
+## Associated Requirements
+Any requirement listed in WPISuite's Requirement Manager can be linked to a task
+1. Click the drop down menu labeled "Associated Requirement" (By default the associated requirement box is left empty)
+    * This will display a list of all requirements located in the Requirement Manager
+1. Click on the requirement that you would like the task to be associated with
+    * This will display the selected requirement in the box provided
+1. Click the button labeled "Associate" located below the associated requirement box, to link the task to that requirement
+1. You can also click the button labeled "View" located next to the "Associate" button to view the selected requirement
+     * Clicking this button will take you to the specific requirement listed in Requirement Manager
+
 ### Commenting on a Task
 Users can comment on a task in the edit view as well and see any comments that a task has
 1. Locate the "Comments" tab in the edit view. This is to the right of the title title field next to the tab labeled "History"
@@ -72,7 +83,7 @@ Task history keeps track of any changes and activity made to the task, including
 
 ### Saving Your Changes
 Once you have edited your task to its desired details you can close the task and your changes will be saved
-1. The "Close" button is located below the list of assigned members
+1. The "Close" button is located below the "Associate" button
 1. Pressing the close button will close the edit view in the sidebar and save your changes
     * You will notice that the due date that you assigned to the task is now listed next to the task's title on the task card
     * If you double click on your task again, you will notice that the changes were saved and the history has been updated to reflect these changes

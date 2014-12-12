@@ -8,7 +8,8 @@ Task Manager comes with a search bar feature that allows you to find the tasks y
 
 1. At the top of the search tab is a text field where you can begin typing your desired search
     * As you type, the search tab populates with results of tasks that match your search. As you type more, the search results will refine
-    * The search tab will show any task whose title or description matches the search criteria. The tasks are displayed in task cards as they would be in a stage column
+    * The search tab will show any task whose title, description, or assigned members matches the search criteria. The tasks are displayed in task cards as they would be in a stage column
+    * The tasks shown in the search results are prioritized by matching title, then description, then finally members
 
 1. Double click a task to open that task's edit view in the sidebar. You will be brought to the edit view where you can see the task's details and change information
 
