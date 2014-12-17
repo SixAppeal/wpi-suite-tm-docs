@@ -1,4 +1,4 @@
-# WPI Suite Task Manager Help
+# WPISuite Task Manager Help
 
 1. [Getting Started](./getting_started.html)
 	* Creating and Archiving Tasks
@@ -12,9 +12,9 @@
 	* Removing Stages
 1. [Searching the Task Manager](./search.html)
 	* How to Search
-        * Finding Archived Tasks
 1. [Other Features](./features.html)
+        * Toggle Sidebar
         * Statistics
         * Multiple Users at Once
-        * Toggle Sidebar
+        
 1. [Customer Support](./customer_support.html)
