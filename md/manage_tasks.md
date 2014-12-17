@@ -17,6 +17,8 @@ You can edit any existing task in order add or update the task's details. A task
 
 * Assigned Members - Users who are assigned to working on the task
 
+* Category - A color can be given to a task in order to organize it further
+
 * History - An ordered list of all activity/ changes made to a task
 
 * Comments - Users can comment on any task
@@ -83,6 +85,17 @@ Any requirement listed in WPISuite's Requirement Manager can be linked to a task
 1. You can also click the button labeled "View" located next to the "Associate" button to view the selected requirement
      * Clicking this button will take you to the specific requirement listed in Requirement Manager
 
+### Adding a Category
+A task can be organized and categorized with other tasks by using a color
+
+1. Click the drop down menu labeled "Category" (By default the category selected is white)
+     * This will display all the colors available to choose
+
+1. Click the color you wish to use with the task
+     * This will display the selected color in the box provided
+
+1. The selected color will appear on the left side of the task card seen in a stage column
+
 ### Commenting on a Task
 Users can comment on a task in the edit view as well and see any comments that a task has
 
@@ -112,7 +125,7 @@ Task history keeps track of any changes and activity made to the task, including
 ### Saving Your Changes
 Once you have edited your task to its desired details you can close the task and your changes will be saved
 
-1. The "Close" button is located below the "Associate" button
+1. The "Close" button is located below the Category field 
 
 1. Pressing the close button will close the edit view in the sidebar and save your changes
     * You will notice that the due date that you assigned to the task is now listed next to the task's title on the task card
@@ -131,7 +144,7 @@ Another way to manage your tasks is to be able to change what stage they are in 
 You may also use the drag and drop feature to change the  order of the tasks within a stage. This can be useful to show task priority, or to add organization to the tasks in a column
 
 1. Select a task to drag in the same way as above. 
-    * You may drag any task to the bottom of the list of tasks to change the order within a stage
+    * You may drag any task to any location within the list of tasks to change the order within a stage
 
 1. After releasing the cursor, you will see the task move down the list into its new spot in the stage
 

@@ -46,7 +46,12 @@ Within the column edit view, the names of the stages can be changed at any time:
 If you decide you no longer want a stage to be a part of your workflow, you may delete a stage in the column edit view as well:
 
 1. Click on the stage name of the stage you would like to delete in the column edit view list (Note that you can only delete one stage at a time)
-1. Click the button labeled "Delete Stage" located at the bottom of the column view tab. Alternatively, you can press your keyboard's "delete" key
+1. Click the button labeled "Delete Stage" located at the bottom of the column view tab. Alternatively, you can press your keyboard's "delete" key 
+    * the "Delete Stage" button will not be clickable if there is only one stage left
+
+1. A pop-up window will appear to confirm you want to delete the stage, and will alert you that any tasks in the stage will be archived
+    * If you click "No", the pop-up will close and your stage will not be deleted
+    * Clicking "Yes" will confirm you want to delete the stage
     * This will delete the stage name from the list
     * This will delete the stage's column from the workflow
     * The stage name will no longer be in the drop down menu in the create task tab

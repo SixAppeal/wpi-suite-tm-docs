@@ -12,4 +12,9 @@
 	* Removing Stages
 1. [Searching the Task Manager](./search.html)
 	* How to Search
+        * Finding Archived Tasks
+1. [Other Features](./features.html)
+        * Statistics
+        * Multiple Users at Once
+        * Toggle Sidebar
 1. [Customer Support](./customer_support.html)

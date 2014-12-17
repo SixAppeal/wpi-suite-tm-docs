@@ -6,6 +6,12 @@ Task Manager comes with a search bar feature that allows you to find the tasks y
 
 1. Click on the search tab signified by the "magnifying glass icon" located in the sidebar. This is the first tab and by default the initial tab that is open in Task Manager.
 
+1. Select whether you would like to search through archived or unarchived tasks
+    * By default, the search is set to search through all unarchived tasks in Task Manager
+
+1. If you would like to search through archived tasks, check the box labeled "Archived Tasks"
+    * This will display all archived tasks in the space provided below
+
 1. At the top of the search tab is a text field where you can begin typing your desired search
     * As you type, the search tab populates with results of tasks that match your search. As you type more, the search results will refine
     * The search tab will show any task whose title, description, or assigned members matches the search criteria. The tasks are displayed in task cards as they would be in a stage column
